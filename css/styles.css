@@ -1,0 +1,40 @@
+body{
+  background-color: #78DEC7;
+}
+hr{
+  background-color: #78DEC7;
+  width: 3%;
+  border-style: dotted none none none;
+  border-width: 9px;
+  border-spacing: 2px;
+  color:#5F939A;
+}
+h1{
+  color: #39A2DB;
+}
+h3{
+  color: #39A2DB;
+}
+th{
+  color: #DF5E5E;
+}
+.Music{
+  background-position: center;
+  background-color: #EDF6E5;
+}
+.food{
+  border-radius: 100%;
+  background-color: #E8F6EF;
+}
+.change:hover{
+  color: #CD113B;
+}
+#Lead:hover{
+  color: #CD113B;
+}
+#personal:hover{
+  background-color: #78DEC7;  
+}
+img:hover{
+  background-color: gold;
+}
